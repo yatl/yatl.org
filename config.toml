@@ -1,0 +1,9 @@
+languageCode = "en-us"
+languageLang = "en"
+title = "Ed Duarte"
+baseurl = "https://www.edduarte.com"
+
+[taxonomies]
+  category = ""
+  tags = ""
+
